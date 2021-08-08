@@ -8,9 +8,9 @@ import time as t
 你的 APPID AK SK 
 每秒钟只能调用两次
 """
-APP_ID = '23636552'
-API_KEY = 'uKl331fEYKlRq9rGoCuAH6XP'
-SECRET_KEY = 'a3QGITtwjwXZGP1EC10kBhO3bMRWfMj8'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 client = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 
 def filter_emoji(content):
@@ -92,10 +92,10 @@ def save_file(alls,name):
         for j in range(len(data)):#取每一单元格
             sheet1.write(i,j,data[j])#写入单元格
         i=i+1#往下一行
-    #os.chdir('F:\图情社科基金项目数据爬取\参考文献')
+    #os.chdir('F:\数据爬取\参考文献')
     f.save(str(name))
 
 if __name__ == "__main__":
-    #save_file(run('陕西省数据.xls'),'陕西省情感分析.xls')
+    #save_file(run('数据.xls'),'情感分析.xls')
     judge=client.sentimentClassify('👏🙊')#判定为空
     print(judge)
