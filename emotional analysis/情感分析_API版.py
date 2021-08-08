@@ -11,9 +11,9 @@ import openpyxl
 你的 APPID AK SK 
 每秒钟只能调用两次
 """
-APP_ID = '23636552'
-API_KEY = 'uKl331fEYKlRq9rGoCuAH6XP'
-SECRET_KEY = 'a3QGITtwjwXZGP1EC10kBhO3bMRWfMj8'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 
 # client = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 
