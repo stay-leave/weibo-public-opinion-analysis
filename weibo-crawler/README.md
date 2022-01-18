@@ -13,7 +13,7 @@
 
 1.先爬取博文数据，得到excel文件，改为xlsx格式。
 
-2.使用comment crawler.py爬取博文的评论。
+2.使用comment crawler.py爬取博文的评论。上传了随机cookie的版本，取消了多线程，这样可以有效防止反爬（如状态码418等），程序即comments-crawler_random。
 
 3.如果对评论数据的质量有要求，就使用data cleaning.py进行清洗。
 
