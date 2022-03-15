@@ -28,3 +28,12 @@
 
 
 爬取顺序是：微博正文、微博评论、用户信息。依次进行，本文解决的是后两个信息的爬取。
+
+重要：cookie获取方式
+
+1.登陆https://weibo.cn/
+
+2.![image](https://user-images.githubusercontent.com/58450966/158399613-ecb09301-8937-460c-ad83-34bbc2c6f198.png)
+
+3.![image](https://user-images.githubusercontent.com/58450966/158399869-210f8cc3-cfd4-4394-80d9-e5cab56f9688.png)
+
