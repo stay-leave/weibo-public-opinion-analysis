@@ -33,7 +33,11 @@
 
 1.登陆https://weibo.cn/
 
-2.![image](https://user-images.githubusercontent.com/58450966/158399613-ecb09301-8937-460c-ad83-34bbc2c6f198.png)
+2.F12,选择网络
 
-3.![image](https://user-images.githubusercontent.com/58450966/158399869-210f8cc3-cfd4-4394-80d9-e5cab56f9688.png)
+![image](https://user-images.githubusercontent.com/58450966/158399613-ecb09301-8937-460c-ad83-34bbc2c6f198.png)
+
+3.重新载入，点击该文件，红圈处即是cookie
+
+![image](https://user-images.githubusercontent.com/58450966/158399869-210f8cc3-cfd4-4394-80d9-e5cab56f9688.png)
 
