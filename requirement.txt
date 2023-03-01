@@ -1,0 +1,5 @@
+gensim==4.1.2
+jieba==0.42.1
+pandas==1.1.5
+pyLDAvis==3.2.2
+matplotlib==3.3.4
