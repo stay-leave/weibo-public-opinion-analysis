@@ -63,4 +63,7 @@ https://github.com/stay-leave/weibo-crawler
 
 ![{%F0EED5 @H@P5 1UKV~R4](https://user-images.githubusercontent.com/58450966/156149916-d1334422-3df7-416c-b9d5-317fd81323e4.png)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=stay-leave/weibo-public-opinion-analysis&type=Date)](https://star-history.com/#stay-leave/weibo-public-opinion-analysis&Date)
 
