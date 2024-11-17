@@ -1,17 +1,8 @@
 CSDN，52账号：灵海之森
 
 微信公众号：西书北影。欢迎关注
-微信公众号之前没开通知，现在开了，看到会第一时间回复
 
 目前在做大模型，开源仓库见：https://github.com/stay-leave/enhance_llm
-
-环境：Python3.6
-
-全新的微博爬虫三件套已发布，位于
-
-https://github.com/stay-leave/weibo-crawler
-
-基于网页端，字段和数据量更上一个台阶。
 
 仅做学习交流使用！不收费，若发现搬运倒卖的，请私信我处理。
 
