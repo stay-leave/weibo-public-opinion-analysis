@@ -5,6 +5,7 @@ CSDN，52账号：灵海之森
 目前在做大模型，开源仓库见：https://github.com/stay-leave/enhance_llm
 
 震惊，有人请我付费指导结果不给钱！！！最后一句话是我接个电话。现在联系不上你，只能是希望你能看到，让你知道我在电脑前等待了你半个小时。以前从来没有收定金的习惯，感谢你让我知道了大学生的险恶。都是男生，有啥直接说呗，搞这一套。
+
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/ebc5d878-d1a5-4f6b-bce1-54ccd1836d38">
 <img width="1118" alt="image" src="https://github.com/user-attachments/assets/63d3d052-9c1e-4500-967b-2640d3ddf2be">
 <img width="1126" alt="image" src="https://github.com/user-attachments/assets/917664fa-2485-4b6f-8978-24fe69942899">
