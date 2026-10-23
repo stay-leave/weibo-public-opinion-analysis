@@ -7,9 +7,11 @@ def mean_0(path):
     data_1=pd.read_excel('1\\'+path+'热度.xls')
     data = pd.DataFrame(data_1)#将excel文件读取并转换为dataframe格式
     #print(data)
-    data_df=data.groupby(by='主题').mean()#根据主题求均值
+    # 话题是文本。对整表 mean() 会在这一列上报
+    # TypeError: Could not convert string ... to numeric（issue #30）。
+    value_cols = data.select_dtypes(include="number").columns
+    data_df=data.groupby(by='主题')[value_cols].mean()#根据主题求均值
     data_df.sort_index(ascending=True,inplace=True)#降序
-    #data_df.drop(['话题'],axis=1,inplace=True)#删除话题列
     #print(data_df)
     data_df.to_excel('2\\'+path+'热度.xlsx')#将情感值存入excel
 
